@@ -1,2 +1,1 @@
-# hello-world
-bruh im following the tutorial
+hello i know a bit of python and that is it
